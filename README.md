@@ -9,8 +9,8 @@
 
 <h4 align="left">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲:</h5>
 <p align="left">
-<a href="https://instagram.com/ll_freakster_7_ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="freakster7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/vinayakpatgar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="VinayakPatar7" height="30" width="40" /></a>
+<a href="https://instagram.com/ll_freakster_7_ll" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="freakster7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vinayakpatgar07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="VinayakPatar7" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:</h5>
